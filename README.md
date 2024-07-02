@@ -11,7 +11,7 @@ $ pkg install python
 $ pip install requests
 $ pip install bs4
 $ pip install telethon
-$ git clone https://github.com/Kingtebe/Telebot
+$ git clone https://github.com/andrew7str/telethon/
 $ cd Telebot
 $ python bot.py <Number_Telegram> <TwoStep_Password>
 ```
