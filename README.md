@@ -12,7 +12,7 @@ $ pip install requests
 $ pip install bs4
 $ pip install telethon
 $ git clone https://github.com/andrew7str/telethon/
-$ cd Telebot
+$ cd telethon
 $ python bot.py <Number_Telegram> <TwoStep_Password>
 ```
 
